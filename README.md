@@ -47,8 +47,6 @@ Bachelor thesis:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Amateur saxophone and football player
 - 📫 How to reach me: jose.briones.r@hotmail.com  
-LinkedIn:  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jos%C3%A9-briones-romero-b4236298//)  
-Medium:  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@joseb91)  
+LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jos%C3%A9-briones-romero-b4236298//)  
+Medium: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@joseb91)  
 
