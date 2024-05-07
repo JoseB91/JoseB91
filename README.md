@@ -9,6 +9,7 @@ Skills: Swift / iOS
 - 📫 How to reach me: jose.briones.r@hotmail.com 
 - 😄 Pronouns: he/him 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jos%C3%A9-briones-romero-b4236298//)  
 
 <!--
 **JoseB91/JoseB91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
