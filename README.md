@@ -3,7 +3,11 @@
 
 Skills: Swift / iOS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Definity First 
+- 🌱 I’m currently learning how to be an iOS Lead Developer 
+- 👯 I’m looking to collaborate on learning and social impact apps 
+- 📫 How to reach me: jose.briones.r@hotmail.com 
+- 😄 Pronouns: he/him 
 
 
 <!--
