@@ -41,11 +41,10 @@ Bachelor thesis:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-- 🔭 I’m currently working on Definity First 
-- 🌱 I’m currently learning how to be an iOS Lead Developer 
-- 👯 I’m looking to collaborate on learning and social impact apps 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Amateur saxophone and football player
+- 👨🏽‍💻 I’m currently working on Definity First 
+- 👨🏽‍🏫 I’m currently learning how to be an iOS Lead Developer 
+- 🔻 I’m looking to collaborate on learning and social impact apps 
+- 🎷⚽ Fun fact: Amateur saxophone and football player
 - 📫 How to reach me: jose.briones.r@hotmail.com
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jos%C3%A9-briones-romero-b4236298//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@joseb91)  
