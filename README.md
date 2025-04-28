@@ -41,7 +41,7 @@ Bachelor thesis:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-- 👨🏽‍💻 I’m currently working on Definity First 
+- 👨🏽‍💻 I’m currently working on Kenility
 - 👨🏽‍🏫 I’m currently learning how to be an iOS Lead Developer 
 - 🔻 I’m looking to collaborate on open knowledge and social impact apps 
 - 🎷⚽ Fun fact: Saxophone and football player
