@@ -42,7 +42,7 @@ Bachelor thesis:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 - 👨🏽‍💻 I’m currently working on Kenility
-- 👨🏽‍🏫 I’m currently learning how to be an iOS Lead Developer 
+- 👨🏽‍🏫 I’m currently learning Kotlin and Android development
 - 🔻 I’m looking to collaborate on open knowledge and social impact apps 
 - 🎷⚽ Fun fact: Saxophone and football player
 - 📫 How to reach me: jose.briones.r@hotmail.com
