@@ -1,9 +1,12 @@
 ### Hi there 👋, my name is José Briones Romero 
-#### I am an iOS developer
+#### I am an Mobile & Full-Stack Software Engineer and Builder
 
 #### Skills:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+Angular
+Spring Boot 
+React Native
 
 Databases:  
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
@@ -13,6 +16,7 @@ Databases:
 IDEs:  
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+IntelliJ
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 Have worked with:  
@@ -30,19 +34,8 @@ Have worked with:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Master thesis:  
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-Bachelor thesis:  
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-- 👨🏽‍💻 I’m currently working on Kenility
-- 👨🏽‍🏫 I’m currently learning Kotlin and Android development
+- 👨🏽‍💻 I’m currently working on ESPE Innovativa
+- 👨🏽‍🏫 I’m learning Kotlin and Android development and to work with Claude Code
 - 🔻 I’m looking to collaborate on open knowledge and social impact apps 
 - 🎷⚽ Fun fact: Saxophone and football player
 - 📫 How to reach me: jose.briones.r@hotmail.com
