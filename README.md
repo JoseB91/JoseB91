@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is José Briones Romero 
-#### I am a Mobile & Full-Stack Software Builder
+#### I am a Mobile & Web Builder
 
 #### Skills:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
